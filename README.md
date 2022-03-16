@@ -62,3 +62,4 @@
 
 ### AHJ-1.1
 
+[![Build status](https://ci.appveyor.com/api/projects/status/ms4c9ldq0u3y9spd?svg=true)](https://ci.appveyor.com/project/Sergl82/ahj-1-1)
